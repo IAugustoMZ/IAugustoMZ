@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Ícaro Augusto Maccari Zelioli
 
-🎓 Ph.D. Candidate in Chemical Engineering | 🧠 Generative AI & Industrial Intelligence  
+🎓 Ph.D. Candidate in Chemical Engineering @ Unicamp | 🧠 Generative AI, Machine Learning, Data Science & Industrial Intelligence  
 👨‍💻 Global Machine Learning and Data Science Tech Lead @ Radix | ⚙️ Bridging Process Engineering and AI  
 🚀 Building smart agents, hybrid models and industrial-grade ML solutions
 
