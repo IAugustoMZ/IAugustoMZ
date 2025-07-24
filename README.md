@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Ícaro Augusto Maccari Zelioli
 
 🎓 Ph.D. Candidate in Chemical Engineering | 🧠 Generative AI & Industrial Intelligence  
-👨‍💻 Senior Consultant @ Deloitte | ⚙️ Bridging Process Engineering and AI  
+👨‍💻 Global Machine Learning and Data Science Tech Lead @ Radix | ⚙️ Bridging Process Engineering and AI  
 🚀 Building smart agents, hybrid models and industrial-grade ML solutions
 
 ---
