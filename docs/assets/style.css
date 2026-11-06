@@ -59,3 +59,13 @@ html[data-theme=dark] .equation-background{color:#acd9e6}
 .equation-background span:nth-child(31){top:78%;right:5%;animation-delay:-5.5s}
 .equation-background span:nth-child(32){top:98%;left:20%;animation-delay:-10.5s}
 @media(max-width:650px){.equation-background span:nth-child(17),.equation-background span:nth-child(21),.equation-background span:nth-child(29),.equation-background span:nth-child(32){font-size:11px}.equation-background span:nth-child(17){left:2%}.equation-background span:nth-child(19){right:1%}.equation-background span:nth-child(29){left:0}}
+
+/* Keep decorative notation quiet behind readable content. */
+body{font-size:17px}
+.hero-intro{font-size:19px}
+.section-heading>p,.project-text>p:not(.project-lead),.about-copy p,.contact-inner>div:last-child p{font-size:16px}
+.project-card>p{font-size:15px}
+.writing-list small{font-size:14px}
+.equation-background span{opacity:.08;animation-duration:30s}
+@keyframes equation-float{0%{transform:translate3d(0,0,0)}100%{transform:translate3d(5px,-6px,0)}}
+@media(max-width:650px){.equation-background span{opacity:.06}}
