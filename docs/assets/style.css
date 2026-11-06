@@ -69,3 +69,17 @@ body{font-size:17px}
 .equation-background span{opacity:.08;animation-duration:30s}
 @keyframes equation-float{0%{transform:translate3d(0,0,0)}100%{transform:translate3d(5px,-6px,0)}}
 @media(max-width:650px){.equation-background span{opacity:.06}}
+
+/* Improve readability across descriptions, navigation, and supporting labels. */
+body{font-size:18px}
+.hero-intro{font-size:20px}
+.section-heading>p,.project-text>p:not(.project-lead),.about-copy p,.contact-inner>div:last-child p{font-size:18px}
+.project-card>p{font-size:17px}
+.writing-list b{font-size:18px}.writing-list small{font-size:16px}
+.header-inner nav,.button,.text-link,.arrow-link{font-size:15px}
+.brand,.theme-toggle,.footer-inner p,.footer-inner>div{font-size:14px}
+.eyebrow,.project-top,.card-top,.writing-kind,.tags span,.topic-strip .wrap{font-size:12px}
+.badge,.hero-meta,.about-facts span{font-size:11px}
+.about-facts b,.project-note{font-size:14px!important}
+.project-visual figcaption,.card-visual figcaption,.portrait-frame figcaption{font-size:11px}
+@media(max-width:650px){.header-inner nav{font-size:13px}.topic-strip .wrap{font-size:11px}}
