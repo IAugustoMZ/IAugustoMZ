@@ -1,62 +1,25 @@
-# 👋 Hello! I'm Ícaro Augusto Maccari Zelioli
+# Hi, I'm Ícaro Augusto Maccari Zelioli 👋
 
-🎓 Ph.D. Candidate in Chemical Engineering @ Unicamp | 🧠 Generative AI, Machine Learning, Data Science & Industrial Intelligence  
-👨‍💻 Global Machine Learning and Data Science Tech Lead @ Radix | ⚙️ Bridging Process Engineering and AI  
-🚀 Building smart agents, hybrid models and industrial-grade ML solutions
+**Chemical engineer · AI and data science consultant · PhD candidate at Unicamp**
 
----
+I'm curious about what happens when chemical engineering meets data science. My work brings together process knowledge, hybrid modeling, machine learning, and AI to explore industrial systems and support engineering decisions. I also enjoy teaching, sharing what I learn, and connecting with people working across these fields.
 
-### 🧩 About Me
+### Explore my work
 
-I'm a chemical engineer passionate about **solving complex industrial challenges with AI**.  
-My work blends **first-principles modeling**, **machine learning**, and **LLM agents** to create solutions that support engineers in scenario analysis, uncertainty quantification, and smarter decision-making.
+🌐 **[Visit my portfolio](https://iaugustomz.github.io/IAugustoMZ/)** — selected projects, research, and writing. The link will become available when GitHub Pages is enabled for this repository.
 
-I’ve developed everything from **virtual analyzers** for chemical reactors to **LangChain agents** for technical document exploration.
+- **Kairon** — a research prototype for industrial asset monitoring and evidence-supported alerts.
+- **Indusyn** — pre-release software for generating synthetic industrial maintenance data with known fault labels.
+- **[Master's dissertation](https://acervus.unicamp.br/acervo/detalhe/1395714)** — hybrid phenomenological and machine-learning modeling for catalytic systems under uncertainty.
+- **[CO₂ to methanol](https://github.com/IAugustoMZ/methanol_synthesis_catalytic_hidrogenation_CO2)** — catalytic reactor simulation and process modeling.
+- **[Solving Chemical Engineering Problems](https://github.com/IAugustoMZ/solving_chemical_engineering_problems)** — scientific computing and reproducible engineering notebooks.
+- **[Personal Knowledge Wiki](https://iaugustomz.github.io/personalWiki/)** — study notes, diagrams, and resources for continued learning.
 
----
+### Writing & research
 
-### 🚀 Highlight Projects
+- [Hybrid modeling for biomass gasification](https://www.mdpi.com/2673-4117/4/2/86) and [thermodynamic assessment of gasification](https://www.mdpi.com/2673-4117/6/1/12) — coauthored research.
+- [Articles on LinkedIn](https://www.linkedin.com/in/icaro-augusto-maccari-zelioli/recent-activity/articles/) · [Medium](https://medium.com/@i.augustomz) · [Chemical Data Labs](https://www.instagram.com/chemicaldatalabs/)
 
-🧠 [**genAI_LangChain**](https://github.com/IAugustoMZ/genAI_LangChain)  
-> My playground for intelligent agents using LangChain and Generative AI.
+### Let's connect
 
-📚 [**deeplearning_chemicalengineering**](https://github.com/IAugustoMZ/deeplearning_chemicalengineering)  
-> Deep learning applied to classic chemical engineering problems.
-
-⚗️ [**methanol_synthesis_CO2**](https://github.com/IAugustoMZ/methanol_synthesis_catalytic_hidrogenation_CO2)  
-> Modeling catalytic hydrogenation of CO₂ to methanol.
-
-📊 [**PowerBI_Dashboards**](https://github.com/IAugustoMZ/PowerBI_Dashboards)  
-> Visual analytics for industrial data exploration.
-
----
-
-### 🛠️ Skills & Tools
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat&logo=data:image/svg+xml;base64,)
-
-💾 SQLite, PostgreSQL, DuckDB  
-📊 Power BI, Streamlit, DWSIM  
-🧪 Hybrid GenAI, Hybrid Models, Uncertainty Quantification
-
----
-
-### 🧠 Recent Activity
-
-- 🧪 Developing a hybrid simulation framework for process engineers with GenAI
-- 🧠 Experimenting with document agents, embeddings, and RAG pipelines
-- 📚 Writing and teaching about applied AI in engineering contexts
-
----
-
-### 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/iaugustomz/](https://www.linkedin.com/in/icaro-augusto-maccari-zelioli/))
-
----
-
-_“Turning process uncertainty into engineering insight using AI.”_
+If you're curious about chemical engineering, industrial data, or applied AI — or would like to exchange ideas about learning and mentorship — [connect with me on LinkedIn](https://www.linkedin.com/in/icaro-augusto-maccari-zelioli/).
